@@ -1,6 +1,6 @@
 # petPython
 
-Repositório com todos os materias.
+Repositório com todos os materiais.
 
 [**Download Arquivos**](https://github.com/pedrocastroo/petPython/archive/master.zip)
 
