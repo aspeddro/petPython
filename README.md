@@ -2,7 +2,7 @@
 
 Repositório com todos os materias.
 
-[**Download Arquivos**](archive/master.zip)
+[**Download Arquivos**](https://github.com/pedrocastroo/petPython/archive/master.zip)
 
 ## Cronograma
 
