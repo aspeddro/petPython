@@ -15,33 +15,46 @@ Repositório com todos os materiais.
    4) Sintaxe
 
 1) Python Objeto e Estrutura de Dados
-   1) Números
-   2) Operadores Aritméticos
-   3) Variáveis
-   4) Comentários
-   5) Strings
-   6) Booleans
-   7) Operadores de Comparação
-   8) Operadores Lógicos
-   9) Operadores de Identidade
-   10) Operadores de Associação
-   11) Lists (Listas)
-   12) Tuples
-   13) Dictionaries (Dicionários)
-   14) Funções básicas
+   1) Tipo de Dados
+      1) Texto: `str`
+      2) Numérico: `int, float`
+      3) Sequência: `list, tuple, range`
+      4) Mapeamento: `dict`
+      5) Set: `set, frozenset`
+      6) Boleano: `bool`
+   2) Números
+      1) Inteiros `int`
+      2) Flutuante `float`
+   3) Operadores Aritméticos
+      1) `+, -, *, **, %, /, //`
+   4) Variáveis
+   5) Comentários
+   6) Strings `str`
+   7) Booleans `bool`
+   8) Operadores de Comparação
+      1) `>, <, >=, <=, ==, !=`
+   9)  Operadores Lógicos
+       1)  `and, or, not`
+   10) Lists
+   11) Tuples
+   12) Operadores de Identidade
+       1)  `is, is not`
+   13) Operadores de Associação
+       1)  `in, not in`
+   14) Dictionaries
+   15) Funções básicas
        1) `print(), len(), int(), float(), str(), type(), sum(), abs(), max(), list(), pow()`
-2) Operadores de Comparação
-3) Controle de Fluxo (Loops)
+2) Controle de Fluxo
    1) `if, elif, else`
    2) `while`
    3) `do while`
    4) `for`
    5) Comandos: `break, continue, pass`
-4) Funções
+3) Funções
    1) Parametros e Argumentos
    2) Argumentos nomeados e não nomeados
    3) Parametros padrão
-5) Módulos
+4) Módulos
 5) PIP (Package Manager for Python Packages)
       > Python >=3.4 já inclui o PIP
 6) Pacotes/Módulos
