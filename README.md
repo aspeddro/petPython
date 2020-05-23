@@ -60,8 +60,8 @@ Repositório com todos os materiais.
 
 ### Livros
 
-* __Downey, Allen__, Pense em Python: Pense Como um Cientista da Computação
-* __Grus, Joel__, Data Science do Zero
+* __Downey, Allen__. Pense em Python: Pense Como um Cientista da Computação
+* __Grus, Joel__. Data Science do Zero
 
 ### Pratique
 

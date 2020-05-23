@@ -8,7 +8,7 @@
 2) Baixe o arquivo `.exe`, *executable installer*.
 3) [Tutorial para Instalação no Windows](https://python.org.br/instalacao-windows/)
 4) Marque a opção `Add Python to PATH` durante a instalação.
-5) Ao finalizar a instalação, procure por `cmd` ou `prompt comando` no menur iniciar. Ao abrir digite `python --version` e pressione __Enter__.
+5) Ao finalizar a instalação, procure por `cmd` ou `Prompt  de Comando` no menur iniciar. Ao abrir digite `python --version` e pressione __Enter__.
 6) Se aparecer uma mensagem monstrando a versão do python, então tudo ocorreu bem.
 
 ## Executando Online
@@ -36,7 +36,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 >>> 
 ```
 
-3) Agora você pode realiazer algumas operações básicas, como somar dois números.
+1) Você pode realiazer algumas operações básicas, como somar dois números.
 
 ```bash
 Python 3.6.9 (default, Apr 18 2020, 01:56:04) 
