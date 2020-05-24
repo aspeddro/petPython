@@ -6,21 +6,23 @@ Repositório com todos os materiais.
 
 ## Cronograma
 
-0. Introdução
-   1) Instalando Python 3
-   2) Iniciando
-   3) Utilizando o Interpretador Python
-      1) Modo Interativo,
-      2) Executando arquivo
-   4) Sintaxe
+0) Introdução
+   1) Iniciando
+   2) Instalando Python 3
+   3) Interpretador Python
+      1) Modo Interativo
+      2) Usando Python como uma calculadora
+   4) Executando arquivo
 
 1) Python Objeto e Estrutura de Dados
-   1) Variáveis
-   2) Números
+   1) Números
       1) Inteiros `int`
       2) Flutuante `float`
-   3) Operadores Aritméticos
+   2) Operadores Aritméticos
       1) `+, -, *, **, %, /, //`
+   3) Variáveis
+      1) Reatribuição
+      2) Atualização de variáveis
    4) Comentários
    5) Strings `str`
    6) Booleans `bool`
@@ -35,27 +37,30 @@ Repositório com todos os materiais.
    12) Operadores de Associação
        1)  `in, not in`
    13) Dictionaries
-   14) Funções básicas
-       1) `range(), len(), int(), float(), str(), type(), sum(), abs(), max(), list(), pow()`
+   14) Outras Funções
+       1) `range(), len(), int(), float(), str(), type(), sum(), abs(), max(), list(), pow(), eval()`
 2) Controle de Fluxo
-   1) `if, elif, else`
-   2) `for`
-   3) `while`
-   4) `do while`
-   5) Comandos: `break, continue, pass`
+   1) Condicionais
+      1) `if, elif, else`
+   2) Loops
+      1) `for`
+      2) `while`
+      3) `do while`
+   3) Comandos: `break, continue, pass`
 3) Funções
    1) Parâmetros e Argumentos
    2) Argumentos nomeados e não nomeados
    3) Parâmetros padrão
 4) Módulos
-5) PIP (Package Manager for Python Packages)
-      > Python >=3.4 já inclui o PIP
-6) Pacotes/Módulos
+5) Funções Matemáticas
+6) PIP (Package Manager for Python Packages)
+   * *Python >=3.4 já inclui o PIP*
+7) Pacotes/Módulos
    1) matplotlib
    2) numpy
    3) pandas
-   4) ipeadatapy
-   5) Outros
+   4) seaborn
+   5) ipeadatapy
 
 ## Recursos
 
