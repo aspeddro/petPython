@@ -48,9 +48,10 @@ Repositório com todos os materiais.
       3) `do while`
    3) Comandos: `break, continue, pass`
 3) Funções
-   1) Parâmetros e Argumentos
-   2) Argumentos nomeados e não nomeados
-   3) Parâmetros padrão
+   1) `def` e `return`
+   2) Parâmetros e Argumentos
+   3) Argumentos nomeados e não nomeados
+   4) Parâmetros padrão
 4) Módulos
 5) Funções Matemáticas
 6) PIP (Package Manager for Python Packages)
