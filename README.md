@@ -45,7 +45,6 @@ Repositório com todos os materiais.
    2) Loops
       1) `for`
       2) `while`
-      3) `do while`
    3) Comandos: `break, continue, pass`
 3) Funções
    1) `def` e `return`

@@ -72,6 +72,7 @@ Para entrar no modo interativo acesse o **Prompt de Comando** no Windows:
 
 * Jupyter Notebook
 * PyCharm
+* Anaconda
 * Atom
 * Sublime Text
 * Visual Studio Code
