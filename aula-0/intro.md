@@ -34,9 +34,9 @@ Outras Vantagens:
 
 [Python Online Compiler, IDE, Editor, Interpreter and REPL](https://repl.it/languages/python3)
 
-## IDLE
+## IDE
 
-IDLE é um Ambiente de Desenvolvimento e Aprendizagem Integrado, ele facilita a criação, modificação e execução de scripts. Há diversas IDLE para trabalhar, Python instala uma por padrão, __Python Shell__. É possível executar python no Terminal no modo interativo.
+IDE é um Ambiente de Desenvolvimento Integrado, ele facilita a criação, modificação e execução de scripts. Há diversas IDE para trabalhar, Python instala uma por padrão, __IDLE__. É possível executar python no Terminal no modo interativo.
 
 Para entrar no modo interativo acesse o **Prompt de Comando** no Windows:
 
@@ -49,7 +49,7 @@ Para entrar no modo interativo acesse o **Prompt de Comando** no Windows:
 2) Agora você está no modo interativo.
 
    ```bash
-   Python 3.8.0 (default, Apr 18 2020, 01:56:04) 
+   Python 3.6.9 (default, Apr 18 2020, 01:56:04) 
    [GCC 8.4.0] on linux
    Type "help", "copyright", "credits" or "license" for more information.
    >>> 
@@ -58,7 +58,7 @@ Para entrar no modo interativo acesse o **Prompt de Comando** no Windows:
 3) Já é possível realizar algumas operações básicas, como somar dois números.
 
    ```bash
-   Python 3.8.0 (default, Apr 18 2020, 01:56:04) 
+   Python 3.6.9 (default, Apr 18 2020, 01:56:04) 
    [GCC 8.4.0] on linux
    Type "help", "copyright", "credits" or "license" for more information.
    >>> 2+2
@@ -68,7 +68,7 @@ Para entrar no modo interativo acesse o **Prompt de Comando** no Windows:
 
 4) Para sair do modo interativo use o comando `exit()` ou `Ctrl+D`.
 
-## Outras IDLE
+## Outras IDE
 
 * Jupyter Notebook
 * PyCharm
@@ -77,7 +77,7 @@ Para entrar no modo interativo acesse o **Prompt de Comando** no Windows:
 * Sublime Text
 * Visual Studio Code
 
-Atom, Sublime Text e Visual Studio Code são editores de código. Se seu PC tiver um processador fraco e/ou pouca memória RAM, recomendo usar o Sublime Text, ele é extremamente leve. Se não tiver fortes limitações use o Visual Studio Code.
+Atom, Sublime Text e Visual Studio Code são editores de código. Se seu PC tiver um processador fraco e/ou pouca memória RAM, recomendo usar o Sublime Text, ele é extremamente leve. Se não tiver limitações use o Visual Studio Code.
 
 ## Executando um Arquivo Python
 

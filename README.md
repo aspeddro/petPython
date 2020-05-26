@@ -6,7 +6,7 @@ Repositório com todos os materiais.
 
 ## Cronograma
 
-0) Introdução
+0) [Introdução](aula-0/intro.md)
    1) Iniciando
    2) Instalando Python 3
    3) Interpretador Python
