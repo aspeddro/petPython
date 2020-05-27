@@ -15,8 +15,8 @@ Outras Vantagens:
 
 ### Windows
 
-1) Baixe a versão 3.8.0, [Download Python 3.8.0](https://www.python.org/downloads/release/python-380/).
-   * Obs: Algumas versões do Python podem ser incompatíveis com certos pacotes, a versão 3.7.5 apresentou problemas para executar o Jupyter Lab. Já a versão 3.8.0 executou normalmente, assim como na versão 3.6.9.
+1) Baixe a versão 3.6.8, [Download Python 3.6.8](https://www.python.org/downloads/release/python-368/).
+   * Obs: Algumas versões do Python podem ser incompatíveis com certos pacotes, a versão 3.7.5 e 3.8.0 apresentou alguns problemas. Recomendo baixar a versão 3.6.8 ou menor.
 2) Selecione a opção *Windows x86-64 executable installer* na seção *Files*.
 3) [Tutorial para Instalação no Windows](https://python.org.br/instalacao-windows/)
 4) Marque a opção **Add Python to PATH** durante a instalação.
@@ -27,7 +27,7 @@ Outras Vantagens:
    ```
 7) Se aparecer uma mensagem monstrando a versão do python, então tudo ocorreu bem.
    ```bash
-   C:\Users\UserName>Python 3.8.0
+   C:\Users\UserName>Python 3.6.9
    ```
 
 ## Executando Online
