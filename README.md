@@ -1,4 +1,4 @@
-# petPython 🐍️
+# petPython 
 
 Repositório com todos os materiais.
 

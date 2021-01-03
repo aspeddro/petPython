@@ -16,7 +16,7 @@ Outras Vantagens:
 ### Windows
 
 1) Baixe a versão 3.6.8, [Download Python 3.6.8](https://www.python.org/downloads/release/python-368/).
-   * Obs: Algumas versões do Python podem ser incompatíveis com certos pacotes, a versão 3.7.5 e 3.8.0 apresentou alguns problemas. Recomendo baixar a versão 3.6.8 ou menor.
+   * Obs: Algumas versões do Python podem ser incompatíveis com alguns pacotes
 2) Selecione a opção *Windows x86-64 executable installer* na seção *Files*.
 3) [Tutorial para Instalação no Windows](https://python.org.br/instalacao-windows/)
 4) Marque a opção **Add Python to PATH** durante a instalação.
@@ -77,29 +77,10 @@ Para entrar no modo interativo acesse o **Prompt de Comando** no Windows:
 * Sublime Text
 * Visual Studio Code
 
-Atom, Sublime Text e Visual Studio Code são editores de código. Se seu PC tiver um processador fraco e/ou pouca memória RAM, recomendo usar o Sublime Text, ele é extremamente leve. Se não tiver limitações use o Visual Studio Code.
-
 ## Executando um Arquivo Python
 
-A extensão de um arquivo python é `.py`. Para rodar um arquivo digite `python` seguido pelo nome do arquivo.
+A extensão de um arquivo python é `.py`. Para rodar um arquivo: `python <file>`.
 
 ```bash
 C:\Users\UserName>python helloworld.py
 ```
-
-Obs: É necessário que você esteja no mesmo diretório do arquivo. Se o arquivo estiver na Área de Trabalho do Windows é necessário alterar o diretório pelo Terminal. Caso contrário passe o caminho absoluto do arquivo.
-
-No Windows, por padrão ao abrir o Prompt de Comando você estará na sua pasta de usuário.
-
-```bash
-C:\Users\UserName>
-```
-
-Para ir para a Área de Trabalho (Desktop) use o comando `cd` (*Change Directory*) seguido do nome da pasta.
-
-```bash
-C:\Users\UserName>cd Desktop
-C:\Users\UserName\Desktop>
-```
-
-Agora você pode rodar o arquivo que está na área de trabalho. Outro método é digitar `cmd` na barra de endereço da pasta, [Leia Mais](https://www.thewindowsclub.com/how-to-open-command-prompt-from-right-click-menu/).
