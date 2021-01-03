@@ -11,7 +11,6 @@ Repositório com todos os materiais.
    2) Instalando Python 3
    3) Interpretador Python
       1) Modo Interativo
-      2) Usando Python como uma calculadora
    4) Executando arquivo
 
 1) Python Objeto e Estrutura de Dados
